@@ -97,6 +97,7 @@
 
 .right-section-contents {
     padding: 2rem 2rem;
+    border-bottom: 2px solid #eeeeee;
 }
 
 .right-title {
@@ -151,4 +152,10 @@
 
 .experience-gap .right-title{
     margin-left: 14px;
+}
+.education-gap .right-title{
+    margin-left: 14px;
+}
+.experience-gap{
+    border-bottom: 2px solid #eeeeee;
 }
